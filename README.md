@@ -1,16 +1,39 @@
-# flutter_camera_qrcode
+# #30 | Camera dan QR Codes
 
-A new Flutter project.
+## Tujuan Praktikum
 
-## Getting Started
+* Mampu menerapkan fungsi kamera pada aplikasi Flutter
+* Mampu menerapkan plugin QR Codes
 
-This project is a starting point for a Flutter application.
+## Persiapan
 
-A few resources to get you started if this is your first Flutter project:
+Plugin
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* camera
+* path_provider
+* path
+* qr_code_scanner
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+android/app/buid.gradle 
+
+* compileSdkVersion 32
+* minSdkVersion 21
+
+Aplikasi terdiri dari 3 file meliputi:
+
+* main.dart
+* camera.dart
+* qrcode.dart 
+
+## Hasil Praktikum
+
+![Hasil Praktikum](./images/01.png)
+![Hasil Praktikum](./images/02.png)
+![Hasil Praktikum](./images/03.png)
+![Hasil Praktikum](./images/04.png)
+![Hasil Praktikum](./images/05.png)
+![Hasil Praktikum](./images/06.png)
+![Hasil Praktikum](./images/07.png)
+![Hasil Praktikum](./images/08.png)
+
+
