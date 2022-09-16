@@ -31,9 +31,5 @@ Aplikasi terdiri dari 3 file meliputi:
 ![Hasil Praktikum](./images/02.png)
 ![Hasil Praktikum](./images/03.png)
 ![Hasil Praktikum](./images/04.png)
-![Hasil Praktikum](./images/05.png)
-![Hasil Praktikum](./images/06.png)
-![Hasil Praktikum](./images/07.png)
-![Hasil Praktikum](./images/08.png)
 
 
