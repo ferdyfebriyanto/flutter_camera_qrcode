@@ -46,7 +46,9 @@ Aplikasi terdiri dari 3 file meliputi:
 
 ![Hasil Praktikum](./images/04.png)
 
-* Halaman Camera, terdapat button untuk mengambil gambar
-* Namun disini terdapat kendala error
+![Hasil Praktikum](./images/05.png)
+
+* Halaman Camera, terdapat button untuk take foto/gambar
+
 
 
