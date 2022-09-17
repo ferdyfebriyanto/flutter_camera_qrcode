@@ -31,7 +31,7 @@ class Home extends StatelessWidget {
     final cameras = await availableCameras();
 
     // Get a specific camera from the list of available cameras.
-    final firstCamera = cameras.first;
+    firstCamera = cameras.first;
   }
 
   @override
