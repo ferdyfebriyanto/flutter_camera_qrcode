@@ -58,7 +58,7 @@ class Home extends StatelessWidget {
                   camera();
                   Navigator.of(context).push(MaterialPageRoute(
                     builder: (context) => TakePictureScreen(
-                      camera: this.firstCamera,
+                      camera: firstCamera,
                     ),
                   ));
                 },
